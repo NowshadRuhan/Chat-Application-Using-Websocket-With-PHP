@@ -1,6 +1,6 @@
 # Chat-Application-Using-Websocket-With-PHP
 Chat application using PHP, using socketo.me. It's a real time chat application.
-#####For Run this project:
+###### For Run this project:
 ```
 composer
 ```
@@ -17,7 +17,7 @@ php bin/chat-server.php
 php -S localhost:8080
 ```
 
-###For Demo Check this:
+###### For Demo Check this:
 
 ![Demo](https://github.com/NowshadRuhan/Chat-Application-Using-Websocket-With-PHP/blob/main/demo1.png?raw=true) 
 
